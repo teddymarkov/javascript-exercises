@@ -1,0 +1,22 @@
+{
+  "name": "javascript-exercises",
+  "version": "1.0.0",
+  "description": "Coding exercises for Javascript (NodeJS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teddymarkov/javascript-exercises.git"
+  },
+  "author": "Teodor Markov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teddymarkov/javascript-exercises/issues"
+  },
+  "homepage": "https://github.com/teddymarkov/javascript-exercises#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
